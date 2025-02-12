@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C++, Java or any CSS-related**
 
-- 📫 How to reach me **doanphongluu082@gmail.com**
+- 📫 Check out my portfolio here: <a href="" LuuDoan >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
