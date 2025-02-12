@@ -3,13 +3,9 @@
 
 - 🔭 I’m currently working on [Book Store Manager Software](https://github.com/DBPCod/CNPM_QLSach)
 
-- 🌱 I’m currently learning **PHP, Django**
-
-- 💬 Ask me about **React.js or any CSS-related**
+- 🌱 I’m currently learning **PHP, Django**1
 
 - 📫 How to reach me **doanphongluu082@gmail.com**
-
-- ⚡ Fun fact **I love Yakuza/Like a Dragon games to death**
 
 <p align="left">
 </p>
