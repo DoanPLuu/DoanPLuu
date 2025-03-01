@@ -22,6 +22,5 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoanPLuu&layout=compact&theme=radical&langs_count=6" height="165">
   <img src="https://github-readme-stats.vercel.app/api?username=DoanPLuu&show_icons=true&theme=radical" height="165">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doanpluu&theme=highcontrast" alt="doanpluu" /></p>
 </p>
   
