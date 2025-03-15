@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C++, Java or any CSS-related**
 
-- 📫 Check out my portfolio here: <a href="https://doanpluu.github.io/luu-cv/" LuuDoan >
+- 📫 Check out my <a href="https://doanpluu.github.io/luu-cv/" LuuDoan >portfolio</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
