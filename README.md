@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doan Phong Luu</h1>
 <h3 align="center">a passionate software engineering student in Vietnam</h3>
 
-- 🔭 I’m currently working on [Book Store Manager Software](https://github.com/DBPCod/CNPM_QLSach)
+- 🔭 I’m currently working on [SmartStaion - Ultra vip mobile store](https://github.com/DBPCod/Web-NangCao)
 
 - 🌱 I’m currently learning **PHP, Django, AWS and React.js**
 
