@@ -22,6 +22,6 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoanPLuu&layout=compact&theme=radical&langs_count=6" height="165">
   <img src="https://github-readme-stats.vercel.app/api?username=DoanPLuu&show_icons=true&theme=radical" height="165">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DoanPLuu)](https://git.io/streak-stats)
+  https://streak-stats.demolab.com/?user=DoanPLuu(https://git.io/streak-stats)
 </p>
   
