@@ -21,7 +21,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoanPLuu&layout=compact&theme=radical&langs_count=6" height="165">
   <img src="https://github-readme-stats.vercel.app/api?username=DoanPLuu&show_icons=true&theme=radical" height="165">
-  <img src="https://streak-stats.demolab.com/?user=DoanPLuu&theme=radical" height="165">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DoanPLuu&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
   
