@@ -13,9 +13,3 @@
 <p align="left">
 <a href="https://fb.com/DoanPhongLuugk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="DoanPhongLuugk" height="30" width="40" /></a>
 </p>
-
-<h2 align="center"> Github Status </h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoanPLuu&layout=compact&theme=radical&langs_count=6" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=DoanPLuu&show_icons=true&theme=radical" height="165">
-</p>
